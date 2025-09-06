@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cordagr)](https://github.com/Cordagr/github-readme-stats)
 
 <!--
 **Cordagr/Cordagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
