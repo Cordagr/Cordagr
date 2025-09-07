@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cordagr)](https://github.com/Cordagr/github-readme-stats)
 <img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cordagr&layout=compact"/>
